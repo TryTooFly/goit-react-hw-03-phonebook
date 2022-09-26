@@ -1,0 +1,17 @@
+.mainHeader {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.addHeader {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  text-align: center;
+}
